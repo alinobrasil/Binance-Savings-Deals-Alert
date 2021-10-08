@@ -8,14 +8,14 @@ Existing saving plans are stored locally in history_activity.json.
 
 ### Example telegram bot message:
 > New items detected: 
-PIVX  |  projectId: HPIVX14DAYSS002K 
-FRONT  |  projectId: HFRONT30DAYSS002K 
-VITE  |  projectId: HVITE30DAYSS007K 
+>PIVX  |  projectId: HPIVX14DAYSS002K 
+>FRONT  |  projectId: HFRONT30DAYSS002K 
+>VITE  |  projectId: HVITE30DAYSS007K 
 >
 >All active activities: 
-PIVX | duration: 14 | APY: 0.3 | lotSize: 100 | projectId: HPIVX14DAYSS002K
-FRONT | duration: 30 | APY: 1.825 | lotSize: 10 | projectId: HFRONT30DAYSS002K
-VITE | duration: 30 | APY: 0.16 | lotSize: 100 | projectId: HVITE30DAYSS007K
+>PIVX | duration: 14 | APY: 0.3 | lotSize: 100 | projectId: HPIVX14DAYSS002K
+>FRONT | duration: 30 | APY: 1.825 | lotSize: 10 | projectId: HFRONT30DAYSS002K
+>VITE | duration: 30 | APY: 0.16 | lotSize: 100 | projectId: HVITE30DAYSS007K
 
 ## Setup
 You just need to set up 2 things:
